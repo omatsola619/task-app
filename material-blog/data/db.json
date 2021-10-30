@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "title": "The birtday time",
+      "details": "the time i came up with some dummy text is over when lorem wouldn't work for me",
+      "category": "reminder",
+      "id": 1
+    },
+    {
+      "title": "Order pizza",
+      "details": "the time i came up with some dummy text is over when lorem wouldn't work for me",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "let's run things",
+      "details": "the time i came up with some dummy text is over when lorem wouldn't work for me",
+      "category": "reminder",
+      "id": 3
+    },
+    {
+      "title": "Go shopping",
+      "details": "remember to buy some vegetables when you go to the supermarket later in the day, and also get some can foods.",
+      "category": "work",
+      "id": 4
+    },
+    {
+      "title": "write a linkedIn article",
+      "details": "write a linkedIn article about the difference between frontend and backend web development.",
+      "category": "todo",
+      "id": 5
+    },
+    {
+      "title": "the right text",
+      "details": "of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "category": "todo",
+      "id": 7
+    },
+    {
+      "title": "The right jack",
+      "details": "of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text,",
+      "category": "work",
+      "id": 8
+    },
+    {
+      "title": "The masonry test",
+      "details": "it is a great deal , more than grid",
+      "category": "reminder",
+      "id": 9
+    }
+  ]
+}
